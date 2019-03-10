@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: GEORGE ROUVAS
+    name: Spanos Athanasios-Spyridon
     tagline: Department of Informatics Undergraduate Student
     avatar: 2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: rouvasgr@gmail.com
+    email: p16span1@ionio.gr
     phone: 
     website:  
     linkedin: 
-    github: giorgosrv
+    github: thanspan
     gitlab:
     bitbucket:
     twitter: 
@@ -31,14 +31,17 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: 
+        
+      - idiom: 
+        level: 
 
     interests:
-      - item: basketball
+      - item: Snowboard
         link:
 
-      - item: skate
+      - item: Physics Science
         link:
 
       - item: Cooking
@@ -52,7 +55,7 @@ career-profile:
 education:
     - degree: Computer Science
       university: Ionian University
-      time: 2016 - 2021
+      time: 2016 - 2020
       details: |
      
 
