@@ -1,39 +1,65 @@
-@media print
-   {
-    @page {
-        size: A4;
-    }
-    body {
-       font-size: 12pt;
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+
+    body{
+        padding: 0;
     }
 
-    img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
-    }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
-   }
     .sidebar-wrapper {
         position: static;
-        float: right;
-        width: 40%;
-        -webkit-print-color-adjust: exact; 
+        width: inherit;
     }
 
-    .remove-container.container-block {
-       display: none;
+    .main-wrapper {
+        padding: 30px;
     }
 
-    footer {
-       display: none;
+    .main-wrapper .time {
+        position: static;
+        display: block;
+        margin-top: 5px;
     }
 
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+    .main-wrapper .upper-row {
+        margin-bottom: 0;
     }
+
+
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .skillset .level-title {
+        display: inline-block;
+        float: left;
+        width: 30%;
+        margin-bottom: 0;
+    }
+
+    .skillset .level-bar {
+        display: inline-block;
+        width: 70%;
+        float: left;
+        position: relative;
+        top: 1px;
+    }
+
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+
+/* Ex-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
 
 }
