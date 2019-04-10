@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: p16span1@ionio.gr
     phone: 
-    website:  
+    website:  https://thanspan.github.io/CV/
     linkedin: 
     github: thanspan
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: thanspan
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -84,8 +84,11 @@ skills:
      
       - name:  Photoshop
         level: 50%
-       
+        
        - name: Python 
         level: 65%
+        
+       - name: C++
+        level: 80%
     
 
