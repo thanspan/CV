@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Athanasio-Spyridon Spanos
+    name: Athanasios-Spyridon Spanos
     tagline: Department of Informatics Undergraduate Student
     avatar: 2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -38,7 +38,7 @@ sidebar:
         level: Competend User
 
     interests:
-      - item: Climbing
+      - item: Physics Science
         link:
 
       - item: Snowboarding
@@ -50,13 +50,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am studying to take my first degree in computer science.I am a third-year student at Department of Informatics at Ionian University.
+      I study some programming languages that I learn throughout my semester and in my spare time and i like to learn new things about the science of computer science.
 
-      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
