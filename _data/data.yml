@@ -7,67 +7,57 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Athanasios-Spyridon Spanos
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+     # Sidebar links
+    email: p16span1@ionio.gr
+    phone: 
+    website:  https://thanspan.github.io/CV/
+    linkedin: 
+    github: thanspan
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: thanspan
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Independent User
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Competend User
+        
+      - idiom: Spanish 
+        level: Competend User
 
     interests:
-      - item: Climbing
+      - item: Snowboard
         link:
 
-      - item: Snowboarding
+      - item: Physics Science
         link:
 
       - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+         I am studying to take my first degree in computer science.I am a third-year student at Department of Informatics at Ionian University.I study some programming languages that I learn throughout my semester and in my spare time and i like to learn new things about the science of computer science.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Science
+      university: Ionian University
+      time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -178,20 +168,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Javascript 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: HTML5 
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
+   
+      - name:  Photoshop
+        level: 50%
+        
+       - name: Python 
+        level: 65%
+        
+       - name: C++
+        level: 80%
 
       - name: Sketch & Photoshop
         level: 60%
